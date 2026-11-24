@@ -1,5 +1,6 @@
 aiohttp
 aiohttp-session
 aiohttp-jinja2
-cryptography 
+cryptography
 jinja2
+yarl
