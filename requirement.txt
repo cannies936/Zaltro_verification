@@ -3,4 +3,6 @@ aiohttp-session
 aiohttp-jinja2
 cryptography
 jinja2
+libsql
+python-dotenv
 yarl
